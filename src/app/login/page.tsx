@@ -78,7 +78,7 @@ export default function LoginPage() {
 
   <div className="max-w-md w-full p-6 m-4 md:p-8 bg-gradient-to-r from-blue-700 to-purple-700 rounded-xl" >
 
-  <h1 className="text-2xl font-bold text-center text-black  mb-20">Welcome to AuthMachine</h1>
+  <h1 className="text-2xl font-bold text-center text-black  mb-20">Welcome to AuthPortal</h1>
     <h2 className="text-white font-bold text-center text-2xl mb-20">Login</h2>
 
     <form className="space-y-4">
@@ -113,7 +113,7 @@ export default function LoginPage() {
       </button>
       <p className="text-center text-sm text-gray-600 dark:text-gray-400">Dont you have an account? <Link href="/signup" className="text-blue-300 hover:text-blue-500">Signup here</Link></p>
     </form>
-    <p className="text-center mt-8 text-sm text-gray-800 dark:text-gray-900">Developed by <Link href="#" className="text-gray-900 hover:text-gray-800"> Durgesh Prasad</Link></p>
+    <p className="text-center mt-8 text-sm text-gray-800 dark:text-gray-900">Developed by <Link href="#" className="text-gray-900 hover:text-gray-800"> Sonal Kumari</Link></p>
 
   </div>
 

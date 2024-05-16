@@ -71,7 +71,7 @@ export default function ProfilePage() {
         </button>
         
     </div>
-    <p className="text-center mt-10 text-sm text-gray-800 dark:text-gray-900">Developed by <Link href="#" className="text-gray-900 hover:text-gray-800"> Durgesh Prasad</Link></p>
+    <p className="text-center mt-10 text-sm text-gray-800 dark:text-gray-900">Developed by <Link href="#" className="text-gray-900 hover:text-gray-800"> Sonal Kumari</Link></p>
 
     </div>
    
